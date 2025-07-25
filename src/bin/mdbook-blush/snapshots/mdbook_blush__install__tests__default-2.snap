@@ -1,0 +1,7 @@
+---
+source: src/bin/mdbook-blush/install.rs
+expression: blush_css_content
+---
+.small-caps {
+    font-variant: small-caps;
+}

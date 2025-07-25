@@ -1,0 +1,8 @@
+---
+source: src/bin/mdbook-blush/install.rs
+expression: book_toml_content
+---
+[output.html]
+additional-css = ["theme/css/blush.css"]
+
+[preprocessor.blush]
