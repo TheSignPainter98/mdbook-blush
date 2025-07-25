@@ -2,6 +2,11 @@
 name = "mdbook-blush"
 version = "0.1.0"
 edition = "2024"
+license = "GPL-3.0"
+description = "An mdBook small-caps preprocessor"
+repository = "https://github.com/TheSignPainter98/mdbook-blush"
+readme = "README.md"
+keywords = ["mdbook"]
 
 [dependencies]
 anyhow = { version = "1.0.98", features = ["std"], default-features = false }
